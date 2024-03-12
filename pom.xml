@@ -20,7 +20,7 @@
     <modules>
         <module>msvc-clientes</module>
         <module>msvc-adicionales</module>
-        <module>msvc-contatos</module>
+        <module>msvc-contactos</module>
     </modules>
 
     <properties>

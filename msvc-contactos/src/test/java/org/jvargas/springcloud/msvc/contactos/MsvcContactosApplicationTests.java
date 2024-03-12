@@ -1,10 +1,10 @@
-package org.jvargas.springcloud.msvc.contatos;
+package org.jvargas.springcloud.msvc.contactos;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MsvcContatosApplicationTests {
+class MsvcContactosApplicationTests {
 
 	@Test
 	void contextLoads() {
